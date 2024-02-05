@@ -4,7 +4,7 @@
 
 <h3 align="center">A Web Developer from the North East, England uk</h3>
 
-<br> 
+<br>
 
 <div align="center">
 
@@ -14,9 +14,9 @@
 
            ⚡ I am a paralympic swimmer & meningitis survicor which lead to me becoming an amputee**
 
-    </div>
+ </div>
 
-    <br/>
+    <br>
 
 <a href="https://app.daily.dev/lyndonlonghorne"><img src="https://api.daily.dev/devcards/f895741475da4ef5b5ee7a8accb59015.png?r=917" width="400" alt="Lyndon Longhorne's Dev Card"/></a>
 
