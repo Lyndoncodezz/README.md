@@ -8,11 +8,11 @@
 
 <div align="center">
 
-    💻 I am currently studing through code academy**
+                      💻 I am currently studing through code academy**
 
-    👩‍💻 Developing further knowledge with Javascript as now mastered HTML, CSS alongside UI/UX**
+               👩‍💻 Developing further knowledge with Javascript as now mastered HTML, CSS alongside UI/UX**
 
-    ⚡ I am a paralympic swimmer & meningitis survicor which lead to me becoming an amputee**
+           ⚡ I am a paralympic swimmer & meningitis survicor which lead to me becoming an amputee**
 
     </div>
 
